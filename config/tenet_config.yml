@@ -1,5 +1,7 @@
 app_title: Sample App
 
+otp_user: otp-nil
+
 admin:
   # user id of admin-admin
   login: admin
