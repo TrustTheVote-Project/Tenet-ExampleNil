@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/trustthevote/Tenet-Framework.git
-  revision: ed4db518967c1d2ccaff7bddc6780d8dc4700df9
+  revision: 1e1f07fe8d2f37ba1768c7e13ffbb8a574f4e997
   specs:
     tenet (0.0.1)
       bootstrap-sass (~> 3.1.1)
@@ -77,7 +77,7 @@ GEM
       execjs
     coffee-script-source (1.8.0)
     colorize (0.7.3)
-    connection_pool (2.0.0)
+    connection_pool (2.1.0)
     erubis (2.7.0)
     execjs (2.2.2)
     faraday (0.9.0)
